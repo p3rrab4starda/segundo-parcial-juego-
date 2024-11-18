@@ -20,9 +20,6 @@ import javax.swing.Timer;
 public class Board extends JPanel implements KeyListener, MouseListener, MouseMotionListener {
 
 	//Assets
-    /**
-     *
-     */
     private static final long serialVersionUID = 1L;
 
     private BufferedImage pause, refresh;
